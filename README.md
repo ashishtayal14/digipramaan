@@ -1,6 +1,6 @@
 # DIGIPRAMAAN
 
-A onestop app to handle the document verification process.
+**A onestop app to handle the document verification process.**
 
 ## Install
 
